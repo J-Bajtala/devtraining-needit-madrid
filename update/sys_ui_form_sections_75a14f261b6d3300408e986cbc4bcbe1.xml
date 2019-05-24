@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="75a14f261b6d3300408e986cbc4bcbe1" sys_domain="global" table="cmdb_application_product_model" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-05-24 12:52:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>fda18f261b6d3300408e986cbc4bcb31</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="cmdb_application_product_model" name="cmdb_application_product_model" sys_domain="global" view="Default view">75a14f261b6d3300408e986cbc4bcbe1</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="cmdb_application_product_model" sys_domain="global" view="Default view">f5a18f261b6d3300408e986cbc4bcb30</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-05-24 12:52:23</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-05-24 12:52:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f9a18f261b6d3300408e986cbc4bcb36</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="cmdb_application_product_model" name="cmdb_application_product_model" sys_domain="global" view="Default view">75a14f261b6d3300408e986cbc4bcbe1</sys_ui_form>
+            <sys_ui_section caption="General" display_value="General" name="cmdb_application_product_model" sys_domain="global" view="Default view">b5a18f261b6d3300408e986cbc4bcb33</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-05-24 12:52:23</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-05-24 12:52:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b1a18f261b6d3300408e986cbc4bcb33</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="cmdb_application_product_model" name="cmdb_application_product_model" sys_domain="global" view="Default view">75a14f261b6d3300408e986cbc4bcbe1</sys_ui_form>
+            <sys_ui_section caption="Compatibles" display_value="Compatibles" name="cmdb_application_product_model" sys_domain="global" view="Default view">f1a18f261b6d3300408e986cbc4bcb32</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-05-24 12:52:23</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-05-24 12:52:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7da18f261b6d3300408e986cbc4bcb2f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="cmdb_application_product_model" name="cmdb_application_product_model" sys_domain="global" view="Default view">75a14f261b6d3300408e986cbc4bcbe1</sys_ui_form>
+            <sys_ui_section caption="Assets" display_value="Assets" name="cmdb_application_product_model" sys_domain="global" view="Default view">b1a18f261b6d3300408e986cbc4bcb2e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-05-24 12:52:23</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-05-24 12:52:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>bda18f261b6d3300408e986cbc4bcb37</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="cmdb_application_product_model" name="cmdb_application_product_model" sys_domain="global" view="Default view">75a14f261b6d3300408e986cbc4bcbe1</sys_ui_form>
+            <sys_ui_section caption="Configuration items" display_value="Configuration items" name="cmdb_application_product_model" sys_domain="global" view="Default view">fda18f261b6d3300408e986cbc4bcb36</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-05-24 12:52:23</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>cmdb_application_product_model</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-05-24 12:52:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>75a14f261b6d3300408e986cbc4bcbe1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>cmdb_application_product_model</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+            <sys_update_name>sys_ui_form_sections_75a14f261b6d3300408e986cbc4bcbe1</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-05-24 12:52:23</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>
